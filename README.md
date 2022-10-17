@@ -2,4 +2,4 @@
 
 O script acessa uma pasta no drive e faz o download de uma tabela de vendas, enviando um relatório automaticamente para o email do destinatário.
 
-Obs: por utilizar pyautogui, ele está configurado para o meu monitor (1920x1080), podendo causar erros em monitores com resoluções diferentes. (Depois irei refazer esse script utilizando Selenium)
+Obs: por utilizar pyautogui, ele está configurado para o meu monitor (1920x1080), podendo causar erros em monitores com resoluções diferentes.
